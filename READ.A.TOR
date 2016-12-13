@@ -1,6 +1,6 @@
-
-Install Openstack With Vagrant And Ansible 
-==========================================
+===============================================================
+Install Openstack With Vagrant And Ansible tor@openstack.eti.br
+===============================================================
 
 We can use vagrant provison feature with ansible install openstack in vagrant simply.
 
